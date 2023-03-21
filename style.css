@@ -1,0 +1,17 @@
+h1 {
+    background-color: rgb(76, 70, 255);
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    color:white;
+}
+
+ol {
+    font-weight:800px;
+    font-size:  30px;
+    background-color:rgb(221, 148, 148);
+}
+
+body {
+    background-color:rgb(228, 247, 58);
+}

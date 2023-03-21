@@ -1,0 +1,21 @@
+.menu{
+    background-color:red;
+    font-size: 20px;
+}
+h2, h1{
+    text-decoration-line: underline;
+}
+
+body{
+    background-color: yellow;
+}
+img {
+    width: 400px;
+    height:auto;
+    border: 10px;
+}
+
+ol,ul {
+    font-size:20px;
+}
+
